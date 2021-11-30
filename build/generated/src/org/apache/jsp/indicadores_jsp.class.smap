@@ -1,0 +1,19 @@
+SMAP
+indicadores_jsp.java
+JSP
+*S JSP
+*F
++ 0 indicadores.jsp
+indicadores.jsp
+*L
+5,16:45
+20,19:61
+39:80,3
+40,20:83
+60:103,3
+61,11:106
+72:117,3
+73,4:120
+77:124,3
+78,3:127
+*E

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<parametros>
+        <facturacion>
+            <driver>com.mysql.jdbc.Driver</driver>
+            <url>jdbc:mysql://172.30.200.11:3306/facturacion_servicios</url>
+            <userBD>admin</userBD>
+            <passwdBD>2Lb2s4d2l14c1</passwdBD>
+        </facturacion>
+</parametros>

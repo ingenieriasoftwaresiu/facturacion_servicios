@@ -1,0 +1,110 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 1/01/2015, 01:32:24 PM
+    Author     : George
+*/
+
+.FILACONSUMO{
+    background-color: #FFF;
+}
+
+.FILACONSUMO:hover{
+    background-color: #ECEBA3;
+}
+
+.TEXTOCELDATABLACONSUMO{
+    font-family: "Candara";
+    font-size: 10px;
+    font-weight: normal;
+    color: #015637;
+    text-align: center;
+    vertical-align: middle;
+    
+    border-right-width: 1px;
+    border-right-style: solid;
+    border-right-color: #116043;
+    
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #116043;
+}
+
+.SUBTITULOTABLAINGRESO{
+    font-family: "Candara";
+    font-size: 10px;
+    font-weight: bold;
+    color: #FFFFFF;
+    background-color: #116043;
+    text-align: center;
+}
+
+.CAMPOCELDACONSUMO{
+    font-family: "Candara";
+    font-size: 9px;
+    font-weight: normal;
+    text-align: center;
+    width: 25px;
+    border: 1px solid #000;
+}
+
+.CAMPOCELDACONSUMODISABLED{
+    font-family: "Candara";
+    font-size: 9px;
+    font-weight: normal;
+    text-align: center;
+    width: 25px;
+    background: #C3C3C3;
+    border: 1px solid #C3C3C3;
+}
+
+.CAMPOCELDACONSUMOLLENA{
+    font-family: "Candara";
+    font-size: 9px;
+    font-weight: normal;
+    text-align: center;
+    width: 25px;
+    background: #00A2E8;
+    border: 1px solid #00A2E8;
+}
+
+.TABLACONSUMO{
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-top-color: #116043;
+
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #116043;
+
+    border-left-width: 1px;
+    border-left-style: solid;
+    border-left-color: #116043;
+    
+    border-right-width: 1px;
+    border-right-style: solid;
+    border-right-color: #116043;
+    
+    box-shadow: 5px 5px 5px #aaa;
+    
+}
+
+.TEXTOCONVENCIONES{
+    font-family: "Candara";
+    font-size: 9px;
+    font-weight: normal;
+    text-align: center;    
+    vertical-align: middle;    
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.IMGCONVENCION{
+    width: 15px;
+    height: 15px;
+    border: 0px;
+    vertical-align: middle;    
+}

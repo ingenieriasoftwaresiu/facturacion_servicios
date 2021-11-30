@@ -1,0 +1,65 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 5/03/2015, 07:58:24 AM
+    Author     : jorge.correa
+*/
+
+.CATEGORIASERVICIO{    
+    background-color: #D9D9D9;
+    font-weight: bold;
+    font-size: 12px;
+    border-bottom: 1px solid #116043;
+}
+
+.CATEGORIASUBSERVICIO{
+    font-size: 11px;
+    border-bottom: 1px solid #116043;
+}
+
+.CATEGORIATOTAL{
+    font-weight: bold;
+    font-size: 12px;
+    background-color: #FBE4D5;
+    border-bottom: 1px solid #116043;
+}
+
+.TEXTOACCION{
+    text-align: left;
+    font-family: "Candara";
+    font-size: 12px;
+    font-weight: normal;
+    color: #116043; 
+}
+
+.TABLACONSUMOS{
+    border-top: 1px solid #116043;
+    border-right:  1px solid #116043;
+    border-left: 1px solid #116043;
+    width: 80%;
+}
+
+.SUBCATEGORIASUBSERVICIO{
+    border-bottom: 1px solid #116043;
+    background-color: #F2F2F2;
+    font-weight: none;
+    font-style: italic;
+    font-size: 11px;
+}
+
+.TEXTOCONSUMO{
+    font-family: "Candara";
+    font-size: 12px;
+    font-weight: normal;
+     border-bottom: 1px solid #116043;
+}
+
+.TEXTONOTAS{
+    font-size: 11px;
+    color: red;
+    border-bottom: 1px solid #116043;
+}
+
